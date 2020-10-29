@@ -132,7 +132,7 @@ p {
 }
 
 /* Image & Figure */
-image {
+img {
     width:100%;
     margin-top:0;
     margin-bottom:0;
@@ -143,6 +143,7 @@ image {
 
 figure {
     margin-bottom:2rem;
+    
 }
 
 figcaption {
