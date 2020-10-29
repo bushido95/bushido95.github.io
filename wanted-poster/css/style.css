@@ -152,5 +152,9 @@ figcaption {
 
 
 /* Footer */
+footer {
+    padding:1rem;
+    border-top:2rem solid #333;
+}
 
 
