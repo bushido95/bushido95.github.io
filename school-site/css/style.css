@@ -135,30 +135,39 @@ figcaption {
 }
 /* Link Styling */
 a {
+    outline: none;
 
 }
 
 a:link,
 a:visited {
-
+    color:#33658A;
 }
 
 a:focus,
 a:hover {
-
+    text-decoration: none;
 }
 
 /* List Styling */
 ul {
-
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: square;
 }
 
 ol {
-
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: lower-alpha;
 }
 
 .long-list a:hover {
-
+    text-transform: uppercase;
 }
 
 
