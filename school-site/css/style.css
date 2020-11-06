@@ -79,45 +79,59 @@ header, footer {
 
 /* Imported Typfaces */
 @font-face {
-    font-family: Coolfont;
+    font-family: Josefinslab;
     src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-weight:normal;
     font-style:normal;
 }
 
 @font-face {
-    
+    font-family: Montserrat;
+    src: url(../fonts/montserrat-regular.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
 }
 
 
 
 /* Typography Styles */
 html {
-
+    font-family: Montserrat, Arial, sans-serif;
 }
 
 h1 {
-    font-family: Coolfont, Arial, sans-serif;
+    font-family: Josefinslab, Arial, sans-serif;
+    letter-spacing: .125rem;
+    font-size:3.75rem;
+    margin:1.125rem;
+    text-align:center;
 }
 
 h2 {
-
+    font-family: Josefinslab, Arial, sans-serif;
+    letter-spacing: .125rem;
+    font-size: 1.5rem;
 }
 
 h2 + p {
-
+    text-indent: 1.5rem;
 }
 
 p{
-
+    font-size: .75rem;
+    letter-spacing: .031rem;
+    word-spacing: .125rem;
 }
 
 li {
-
+    font-size: .75rem;
+    letter-spacing: .031rem;
+    word-spacing: .125rem;
 }
 
 figcaption {
-
+    font-size: .75rem;
+    margin-bottom: 2rem;
 }
 /* Link Styling */
 a {
