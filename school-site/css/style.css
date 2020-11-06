@@ -86,7 +86,7 @@ header, footer {
 }
 
 @font-face {
-
+    
 }
 
 
@@ -97,7 +97,7 @@ html {
 }
 
 h1 {
-
+    font-family: Coolfont, Arial, sans-serif;
 }
 
 h2 {
