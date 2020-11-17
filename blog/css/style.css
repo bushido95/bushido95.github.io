@@ -102,10 +102,6 @@ section, aside, nav, footer {
   padding: .5rem;
 }
 
-header, footer {
-    border-top: .125rem solid #33658A;
-    border-bottom: .125rem solid #33658A;
-  }
 
 
 h1 {
