@@ -114,6 +114,7 @@ figcaption {
 }
 
 nav {
+    width:100%;
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     padding-top:.5rem;
