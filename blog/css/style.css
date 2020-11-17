@@ -53,8 +53,8 @@ html {
 }
 
 header {
-    margin-top:1rem;
-    margin-bottom:1rem;
+    padding-top:1rem;
+    padding-bottom:1rem;
 }
 
 body {
@@ -82,18 +82,8 @@ figcaption {
     margin:.375rem 0;
 }
 
-.long-list {
-    margin-top:0;
-}
-
-nav {
-    float: left;
-    width:11.25rem;
-}
-
 footer {
-    clear: both;
-    margin-top:1.5rem;
+
 }
 
 section, aside, nav, footer {
