@@ -123,6 +123,7 @@ nav {
 }
 
 nav a {
+    word-spacing:.5rem;
     width: 15%;
     text-decoration: none;
     line-height: 3;
