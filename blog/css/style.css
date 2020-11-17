@@ -108,13 +108,15 @@ h1 {
 }
 
 h2 {
-    border-top: 1px solid gray;
-    border-bottom: 1px solid gray;
+    
     margin-top:1rem;
     margin-bottom:1rem;
     letter-spacing: .125rem;
     font-size: 1.5rem;
 }
+
+
+
 #subsection {
     align-content: right;
 }
@@ -136,10 +138,13 @@ figcaption {
 }
 
 nav {
+    
     padding-left: .25rem;
 }
 
 nav a {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
     text-decoration: none;
     display: inline-block;
     width: 100%;
@@ -147,7 +152,7 @@ nav a {
     text-align: center;
     font-size:1.125rem;
     margin-bottom: 1.5rem;
-    border: solid .0625rem #33658A;
+    border: solid .0625rem blue;
 }
 
 nav a:focus,
