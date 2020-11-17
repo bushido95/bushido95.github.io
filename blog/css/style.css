@@ -69,6 +69,10 @@ aside {
     padding-right: 1rem;
     padding-left:.5rem;
 }
+
+aside + a {
+    border-bottom:.0625rem solid gray;
+}
 figure {
     width:60%;
     margin:0 10% 0 0;
