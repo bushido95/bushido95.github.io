@@ -60,7 +60,7 @@ header {
 section {
     float: left;
     min-width: 22.5rem;
-    width:50%;
+    width:60%;
 }
 
 aside {
@@ -68,6 +68,7 @@ aside {
     border-left: .125rem solid gray;
     padding-right: 1rem;
     padding-left:.5rem;
+    width: 30%;
 }
 
 aside + a {
