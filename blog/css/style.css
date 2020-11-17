@@ -150,6 +150,7 @@ nav a:active {
 
 footer {
     text-decoration: none;
+    text-decoration-color: gray;
     display: flex;
     justify-content: space-between;
 }
