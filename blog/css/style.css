@@ -135,15 +135,15 @@ figcaption {
 }
 
 nav {
-    
-    padding-left: .25rem;
-}
-
-nav a {
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     margin-top:1rem;
     margin-bottom:1rem;
+    padding-left: .25rem;
+}
+
+nav a {
+    
     text-decoration: none;
     display: inline-block;
     width: 100%;
