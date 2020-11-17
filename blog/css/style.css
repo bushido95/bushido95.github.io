@@ -146,8 +146,3 @@ nav a:active {
     background-color: #000;
 }
 
-footer {
-    margin-top:1.5rem;
-    display: flex;
-    justify-content: space-between;
-}
