@@ -118,6 +118,7 @@ nav {
     border-bottom: 1px solid gray;
     padding-top:1rem;
     padding-bottom:1rem;
+    white-space: normal;
 }
 
 nav a {
