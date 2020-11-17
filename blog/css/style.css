@@ -68,6 +68,10 @@ section {
     width:60%;
 }
 
+.subsection {
+    display:flex;
+    justify-content: space-between;
+}
 aside {
     float: right;
     border-left: .125rem solid gray;
