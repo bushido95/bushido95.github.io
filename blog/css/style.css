@@ -57,6 +57,11 @@ header {
     padding-bottom:1rem;
 }
 
+main {
+    overflow: auto;
+    width:100%;
+}
+
 section {
     float: left;
     min-width: 22.5rem;
