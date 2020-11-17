@@ -119,11 +119,11 @@ nav {
     border-bottom: 1px solid gray;
     padding-top:.5rem;
     padding-bottom:.5rem;
-    justify-content: space-between;
+    word-spacing:.5rem;
 }
 
 nav a {
-    word-spacing:.5rem;
+    
     width: 15%;
     text-decoration: none;
     line-height: 3;
