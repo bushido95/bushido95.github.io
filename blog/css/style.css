@@ -76,14 +76,10 @@ aside + a {
     color: black;
     border-bottom:.0625rem solid gray;
 }
-figure {
-    width:30%;
-    margin:0 10% 0 0;
-    float:left;
-}
 
-figure img {
-    width:100%;
+
+aside + img {
+    width:30%;
     max-width:25rem;
 }
 
