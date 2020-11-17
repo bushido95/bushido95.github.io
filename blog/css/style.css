@@ -53,16 +53,9 @@ html {
 }
 
 body {
-    margin: 1.5rem auto;
-    width:90%;
-    min-width:56.25rem;
-}
-
-ain {
-    overflow:auto;
-    min-width:45rem;
     
 }
+
 
 section {
     float: left;
