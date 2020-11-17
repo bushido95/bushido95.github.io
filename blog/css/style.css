@@ -57,6 +57,9 @@ header {
     margin-bottom:1rem;
 }
 
+body {
+    display: flex;
+}
 
 section {
     float: left;
@@ -112,16 +115,11 @@ h2 {
     font-size: 1.5rem;
 }
 
-
-
-#subsection {
-    align-content: right;
-}
 p{
     font-size: .75rem;
     letter-spacing: .031rem;
     word-spacing: .125rem;
-}
+}}
 
 li {
     font-size: .75rem;
