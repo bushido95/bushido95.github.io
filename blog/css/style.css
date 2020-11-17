@@ -130,7 +130,7 @@ nav {
 }
 
 nav a {
-    
+    text-decoration-color: steelblue;
     width: 15%;
     text-decoration: none;
     line-height: 3;
