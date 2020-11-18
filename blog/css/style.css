@@ -75,7 +75,6 @@ header {
 
 article {
     float: left;
-    min-width: 22.5rem;
     width:60%;
 }
 
