@@ -58,6 +58,7 @@ header {
 }
 
 .highlight{
+    border: .125rem solid black;
     border-color: darkslateblue;
     background-color: mediumblue;
     color: white;
