@@ -97,10 +97,6 @@ article {
     justify-content: center;
 }
 
-.article-image{
-    vertical-align: auto;
-}
-
 .subsection {
     display: grid;
     grid-column-gap:.5rem;
