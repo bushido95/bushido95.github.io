@@ -90,7 +90,7 @@ header {
 article {
     float: left;
     width:70%;
-    display:flex;
+    display:center;
     justify-content: space-between;
 }
 
