@@ -160,7 +160,9 @@ nav a:active {
 }
 
 footer {
-    float:bottom;
+    position: absolute;
+    bottom:0;
+    width:100%;
     text-decoration: none;
     text-decoration-color: gray;
     display: flex;
