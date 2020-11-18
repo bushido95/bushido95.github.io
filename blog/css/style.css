@@ -80,6 +80,7 @@ header {
     border-radius: 1.25rem .75rem;
     padding: .5rem;
     font-weight: bold;
+    box-shadow: black;
     }
 
 .mainsection {
@@ -94,6 +95,7 @@ article {
 }
 
 .subsection {
+    float:left;
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }
@@ -111,10 +113,6 @@ aside {
 
 .sidesection{
     border-bottom: .125rem solid gray;
-}
-
-section, aside, nav, footer {
-  padding: 0.5rem;
 }
 
 
