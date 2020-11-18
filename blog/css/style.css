@@ -97,6 +97,7 @@ article {
 }
 
 .subsection {
+    width:70%;
     float:left;
     display: grid;
     grid-template-columns: 20% 20% 20%;
