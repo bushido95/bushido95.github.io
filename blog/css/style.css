@@ -93,7 +93,7 @@ header {
 article {
     float: left;
     width:70%;
-    display:center;
+    display:flex;
     justify-content: center;
 }
 
