@@ -47,12 +47,27 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+@font-face {
+    font-family: Josefinslab;
+    src: url(../fonts/serif/josefinslab-regular.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/sans-serif/montserrat-regular.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
 html {
-    font-family: Arial,sans-serif;
+    font-family: Montserrat,Arial,sans-serif;
     font-size:16px;
 }
 
 header {
+    font-family: Josefinslab, Arial, sans-serif;
     padding-top:1rem;
     padding-bottom:2rem;
 }
