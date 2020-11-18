@@ -55,6 +55,12 @@
     font-style:normal;
 }
 
+@font-face {
+    font-family: Ultraregular;
+    src: url(../fonts/serif/ultra-regular.ttf) format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
 html {
     font-family: Montserrat,Arial,sans-serif;
     font-size:16px;
@@ -171,13 +177,16 @@ nav a:active {
 }
 
 .container {
-    font-size:34px;
-    border: .125rem solid black;
-    border-color: steelblue;
-    background-color: steelblue;
-    color: lightyellow;
-    padding: .5rem;
-    font-weight: bold;
+    background-color: blue;
+    border-color: blue;
+    color: beige;
+    font-family: Ultraregular, serif;
+    font-size: 2rem;
+    border-radius: 1rem;
+    text-align: left;
+    margin: 10%;
+    margin-top: 3rem;
+    box-shadow:0.625rem 0.625rem 0.625rem grey;
 }
 
 footer {
