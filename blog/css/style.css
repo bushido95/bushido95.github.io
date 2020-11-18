@@ -59,9 +59,9 @@ header {
 
 .highlight{
     border: .125rem solid black;
-    border-color: darkred;
-    background-color: darkred;
-    color: peachpuff;
+    border-color: maroon;
+    background-color: maroon;
+    color: lightyellow;
     border-radius: 1.25rem .75rem;
     padding: .5rem;
     font-weight: bold;
