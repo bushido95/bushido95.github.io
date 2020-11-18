@@ -97,6 +97,10 @@ article {
     justify-content: space-between;
 }
 
+.article-image{
+    vertical-align: auto;
+}
+
 .subsection {
     display: grid;
     grid-template-columns: auto auto auto;
