@@ -95,7 +95,7 @@ aside {
     width: 25%;
 }
 
-aside + a {
+.expand {
     text-decoration: none;
     color: black;
     
