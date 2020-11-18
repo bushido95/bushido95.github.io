@@ -101,6 +101,9 @@ article {
     display: grid;
     grid-template-columns: 20% 20% 20%;
 }
+figure {
+    padding:.125rem;
+}
 aside {
     float: right;
     border-left: .125rem solid gray;
