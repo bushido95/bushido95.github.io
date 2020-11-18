@@ -85,7 +85,8 @@ header {
 
 .mainsection {
     display: flex;
-    justify-content: space-between;
+    align-items:center;
+    justify-content: center;
     width:100%;
 }
 
