@@ -87,7 +87,6 @@ main{
 }
 
 .mainsection {
-    padding-left:1.5rem;
     display: flex;
     overflow: auto;
     width:100%;
@@ -105,8 +104,6 @@ article {
 aside {
     float: right;
     border-left: .125rem solid gray;
-    padding-right: 1rem;
-    padding-left:.5rem;
     width: 25%;
 }
 
@@ -121,7 +118,7 @@ aside {
 }
 
 section, aside, nav, footer {
-  padding: .5rem;
+  padding: 1.5rem;
 }
 
 
