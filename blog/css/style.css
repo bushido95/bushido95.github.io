@@ -116,6 +116,10 @@ aside {
     
 }
 
+.sidesection{
+    border-bottom: .125rem solid gray;
+}
+
 section, aside, nav, footer {
   padding: .5rem;
 }
