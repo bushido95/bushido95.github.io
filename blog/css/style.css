@@ -67,12 +67,12 @@ header {
     font-weight: bold;
     }
 
-main {
+.mainsection {
     overflow: auto;
     width:100%;
 }
 
-section {
+article {
     float: left;
     min-width: 22.5rem;
     width:60%;
