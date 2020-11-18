@@ -112,10 +112,13 @@ aside {
 }
 
 .sidesection{
+    padding-bottom:1.5rem;
     border-bottom: .125rem solid gray;
 }
 
-
+section, aside , footer {
+    padding:1.5rem;
+}
 
 h1 {
     transform:rotate(-5deg);
@@ -184,7 +187,6 @@ nav a:active {
 }
 
 footer {
-    padding-top:2.5rem;
     width:100%;
     font-family: Montserrat,Arial,sans-serif;
     color: gray;
