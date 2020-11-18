@@ -104,7 +104,7 @@ article {
 .subsection {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-column-gap:1rem;
+    grid-column-gap:.5rem;
 }
 figure {
     padding:.125rem;
