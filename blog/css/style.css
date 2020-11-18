@@ -57,6 +57,15 @@ header {
     padding-bottom:1rem;
 }
 
+.highlight{
+    border-color: darkslateblue;
+    background-color: mediumblue;
+    color: white;
+    border-radius: 1.25rem .75rem;
+    padding: .5rem;
+    font-weight: bold;
+    }
+
 main {
     overflow: auto;
     width:100%;
