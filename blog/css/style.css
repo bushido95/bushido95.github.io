@@ -103,9 +103,11 @@ article {
 
 .subsection {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
     grid-column-gap:.5rem;
+    grid-template-columns: repeat(3,1fr);
+    
 }
+
 figure {
     padding:.125rem;
 }
