@@ -98,6 +98,7 @@ article {
 }
 
 .subsection {
+    float:left;
     display: grid;
     grid-column-gap:.5rem;
     grid-template-columns: repeat(3,1fr);
