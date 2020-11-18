@@ -47,12 +47,6 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-@font-face {
-    font-family: Josefinslab;
-    src: url(../fonts/serif/josefinslab-regular.ttf) format('truetype');
-    font-weight:normal;
-    font-style:normal;
-}
 
 @font-face {
     font-family: Montserrat;
@@ -67,7 +61,7 @@ html {
 }
 
 header {
-    font-family: Josefinslab, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     padding-top:1rem;
     padding-bottom:2rem;
 }
@@ -88,7 +82,7 @@ main{
 
 .mainsection {
     display: flex;
-    overflow: auto;
+    justify-content: space-between;
     width:100%;
 }
 
@@ -177,7 +171,7 @@ nav a:active {
 }
 
 .container {
-    text-size-adjust: 32px;
+    font-size:34px;
     border: .125rem solid black;
     border-color: steelblue;
     background-color: steelblue;
