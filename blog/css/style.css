@@ -161,6 +161,7 @@ nav a:active {
 }
 
 .container {
+    font-size:32px;
     border: .125rem solid black;
     border-color: steelblue;
     background-color: stellblue;
