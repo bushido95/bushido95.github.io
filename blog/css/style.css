@@ -177,12 +177,11 @@ nav a:active {
 }
 
 .container {
-    font-size:32px;
+    text-size-adjust: 32px;
     border: .125rem solid black;
     border-color: steelblue;
-    background-color: stellblue;
+    background-color: steelblue;
     color: lightyellow;
-    border-radius: 1.25rem .75rem;
     padding: .5rem;
     font-weight: bold;
 }
