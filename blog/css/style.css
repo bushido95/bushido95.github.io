@@ -87,7 +87,7 @@ aside {
     border-left: .125rem solid gray;
     padding-right: 1rem;
     padding-left:.5rem;
-    width: 30%;
+    width: 25%;
 }
 
 aside + a {
@@ -96,11 +96,6 @@ aside + a {
     border-bottom:.0625rem solid gray;
 }
 
-
-aside + img {
-    width:30%;
-    max-width:25rem;
-}
 
 figcaption {
     margin:.375rem 0;
