@@ -80,7 +80,7 @@ header {
     border-radius: 1.25rem .75rem;
     padding: .5rem;
     font-weight: bold;
-    box-shadow: black;
+    box-shadow: 0.625rem 0.625rem 0.625rem black;
     }
 
 .mainsection {
@@ -171,12 +171,12 @@ nav a:active {
 }
 
 .button {
-    background-color: blue;
-    border-color: blue;
+    background-color: steelblue;
+    border-color:steelblue;
     color: beige;
     font-family: Ultraregular, serif;
     font-size: 2rem;
-    border-radius: 1rem;
+    border-radius: 1.25rem .75rem;
     text-align: left;
     margin: 10%;
     margin-top: 3rem;
