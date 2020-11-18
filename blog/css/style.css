@@ -160,6 +160,16 @@ nav a:active {
     background-color: #000;
 }
 
+.container {
+    border: .125rem solid black;
+    border-color: steelblue;
+    background-color: stellblue;
+    color: lightyellow;
+    border-radius: 1.25rem .75rem;
+    padding: .5rem;
+    font-weight: bold;
+}
+
 footer {
     position: absolute;
     bottom:0;
