@@ -92,6 +92,8 @@ header {
 article {
     float: left;
     width:70%;
+    display:fex;
+    justify-content: space-between;
 }
 
 .subsection {
