@@ -100,11 +100,6 @@ aside + a {
     
 }
 
-
-figcaption {
-    margin:.375rem 0;
-}
-
 section, aside, nav, footer {
   padding: .5rem;
 }
