@@ -91,13 +91,13 @@ header {
 
 article {
     float: left;
-    width:75%;
+    width:70%;
 }
 
 .subsection {
     float:left;
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,.5fr);
 }
 aside {
     float: right;
