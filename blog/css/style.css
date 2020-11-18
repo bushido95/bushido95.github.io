@@ -68,6 +68,7 @@ header {
     }
 
 .mainsection {
+    display: flex;
     overflow: auto;
     width:100%;
 }
