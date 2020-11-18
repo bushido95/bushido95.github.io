@@ -99,7 +99,7 @@ article {
 .subsection {
     float:left;
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 20% 20% 20%;
 }
 aside {
     float: right;
