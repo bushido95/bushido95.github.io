@@ -67,6 +67,10 @@ header {
     font-weight: bold;
     }
 
+main{
+    padding-bottom:2.5rem;
+}
+
 .mainsection {
     display: flex;
     overflow: auto;
@@ -93,7 +97,7 @@ aside {
 aside + a {
     text-decoration: none;
     color: black;
-    border-bottom:.0625rem solid gray;
+    
 }
 
 
@@ -163,6 +167,7 @@ footer {
     position: absolute;
     bottom:0;
     width:100%;
+    height:2.5rem;
     text-decoration: none;
     text-decoration-color: gray;
     display: flex;
